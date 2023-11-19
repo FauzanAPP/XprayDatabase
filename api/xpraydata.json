@@ -1,4 +1,9 @@
 {
   "author": "@fauzanapp",
-  "result": {}
+  "result": [
+    {
+      "id": 1,
+      "name": "Fauzan"
+    }
+  ]
 }
